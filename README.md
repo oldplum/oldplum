@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stanley Lee
 
-### A Student in SCU
+### A student at SCU
 
 - 🌱 I'm currently learning **Computer Science**
 
