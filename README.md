@@ -1,7 +1,7 @@
 # Hi 👋, I'm Stanley Lee
 
-### A student at **SCU**
-## Also the Vice President of **International Prevent Curling Organization (Curtopia)**
+### A student at SCU
+#### Also the Vice President of International Prevent Curling Organization (Curtopia)
 
 - 🌱 I'm currently learning **Computer Science**
 
