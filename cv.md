@@ -1,11 +1,11 @@
-# [你的姓名]
+# 李宇涵
 
 <p align="center">
-    <b>学校：</b>四川大学（望江/江安校区） | 
+    <b>学校：</b>四川大学 | 
     <b>专业：</b>计算机学院-计算机科学与技术（大一在读）<br>
-    <b>手机：</b>13X-XXXX-XXXX | 
-    <b>邮箱：</b>[你的QQ号或学号]@stu.scu.edu.cn | 
-    <b>GitHub：</b>[如果有就写，没有就删掉这行]
+    <b>手机：</b>191-5880-8790 | 
+    <b>邮箱：</b>oldplum@outlook.com | 
+    <b>GitHub：https://github.com/oldplum
 </p>
 
 ---
