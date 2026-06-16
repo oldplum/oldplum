@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanley Lee</h1>
 <h3 align="center">A student at SCU</h3> 
 <h4 align="center">Also the Vice President of International Prevent Curling Organization (Curtopia)</h4>
+<h4 align="center">And a member of @The-Brotherhood-of-SCU</h4>
 
 - 🌱 I’m currently learning **Computer Science**
 
