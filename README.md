@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **oldplum@outlook.com or oldplumnb@gmail.com**
-- my blog **blog.oldplum.dev**
+- my blog **https://blog.oldplum.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
