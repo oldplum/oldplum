@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Lee</h1>
-<h3 align="center">A student at SCU</h3> 
+<h3 align="center">A student in the Computer Science College of SCU</h3> 
 
 - 🌱 I’m currently learning **Computer Science**
 
